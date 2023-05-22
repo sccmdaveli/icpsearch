@@ -23,3 +23,4 @@
 4.python3 icp.py -f file.txt
 
 批量查询
+[![](/images/1.png)]
