@@ -24,9 +24,9 @@
 
 批量查询
 
-![1](D:\编程\Python脚本\edusrc\images\1.png)
+![1]images\1.png)
 
-![](D:\编程\Python脚本\edusrc\images\2.png)
+![](images\2.png)
 
 
 
