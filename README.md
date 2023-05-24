@@ -23,5 +23,5 @@
 4.python3 icp.py -f file.txt
 批量查询
 
-![1](/images/1.png)
-![2](/images/2.png)
+![1](images/1.png)
+![2](images/2.png)
